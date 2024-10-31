@@ -1,0 +1,49 @@
+<svg viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="600" height="450" fill="white"/>
+    
+    <!-- Title -->
+    <text x="300" y="30" text-anchor="middle" font-size="16" font-weight="bold">Added Values</text>
+    
+    <!-- Y-axis -->
+    <line x1="60" y1="50" x2="60" y2="350" stroke="black"/>
+    <text x="45" y="60" text-anchor="end" font-size="12">40000</text>
+    <text x="45" y="140" text-anchor="end" font-size="12">30000</text>
+    <text x="45" y="220" text-anchor="end" font-size="12">20000</text>
+    <text x="45" y="300" text-anchor="end" font-size="12">10000</text>
+    <text x="45" y="350" text-anchor="end" font-size="12">0</text>
+    
+    <!-- X-axis -->
+    <line x1="60" y1="350" x2="540" y2="350" stroke="black"/>
+    
+    <!-- Bank names (rotated) -->
+    <g transform="translate(80,370)">
+        <text transform="rotate(45)" font-size="10">itau</text>
+    </g>
+    <g transform="translate(120,370)">
+        <text transform="rotate(45)" font-size="10">bradesco</text>
+    </g>
+    <g transform="translate(160,370)">
+        <text transform="rotate(45)" font-size="10">santander</text>
+    </g>
+    
+    <!-- Boxplots -->
+    <!-- Itau -->
+    <rect x="70" y="70" width="20" height="100" fill="none" stroke="black"/>
+    <line x1="70" y1="120" x2="90" y2="120" stroke="black" stroke-width="2"/>
+    <line x1="80" y1="70" x2="80" y2="50" stroke="black"/>
+    <line x1="80" y1="170" x2="80" y2="190" stroke="black"/>
+    
+    <!-- Bradesco -->
+    <rect x="110" y="90" width="20" height="90" fill="none" stroke="black"/>
+    <line x1="110" y1="135" x2="130" y2="135" stroke="black" stroke-width="2"/>
+    <line x1="120" y1="90" x2="120" y2="70" stroke="black"/>
+    <line x1="120" y1="180" x2="120" y2="200" stroke="black"/>
+    
+    <!-- Other smaller boxplots -->
+    <rect x="150" y="300" width="20" height="30" fill="none" stroke="black"/>
+    
+    <!-- Caption -->
+    <text x="300" y="420" text-anchor="middle" font-size="12">Figure 1 - Boxplot of added values for all banks during the period 2007 to 2011</text>
+    <text x="300" y="440" text-anchor="middle" font-size="10" font-style="italic">Source: Research data</text>
+</svg>
