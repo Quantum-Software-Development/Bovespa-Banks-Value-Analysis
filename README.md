@@ -19,6 +19,9 @@
 "This repository analyzes the distribution of wealth among Brazilian banks, highlighting the disparities between national and foreign institutions. The presentation was developed by [Fabiana Campanari](https://github.com/FabianaCampanari) for the course of **Statistics and Probability** in the **Data Science and Artificial Intelligence** program at **PUC-SP**, under the supervision of Professor [Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
 
+<br>
+
+
 ## Table of Contents
 - [Presentation Overview](#presentation-overview)
 - [Analysis of Value Added and Its Distribution in Bovespa Banks](#analysis-of-value-added-and-its-distribution-in-bovespa-banks)
@@ -31,6 +34,9 @@
 - [Acknowledgments](#acknowledgments)
 - [Contact Information](#contact-information)
 
+  
+<br>
+
 ## Presentation Overview
 
 Created by **Fabiana Campanari**, this project includes a complete video presentation for a Statistics course. In this project, I assumed the roles of art direction, design, and sound remixing 🎶. The focus of the analysis is on the **Value Added and Its Distribution in Bovespa Banks**.
@@ -38,6 +44,7 @@ Created by **Fabiana Campanari**, this project includes a complete video present
 Statistics need not be tedious. I transformed data into a visual and auditory narrative that captivated the class's attention. The presentation team was responsible for delivering the content, utilizing my video alongside supplementary materials in PowerPoint and PDF formats.
 
 
+<br>
 
 ## Analysis of Value Added and Its Distribution in Bovespa Banks
 
@@ -47,6 +54,7 @@ The project encompasses a presentation video and supplementary materials, includ
 
 
 
+<br>
 
 ## Objective of the Study
 
@@ -56,6 +64,8 @@ The study investigates how Brazilian banks generated and distributed wealth, foc
 The research employed the **Demonstration of Value Added (DVA)** and ANOVA analysis to compare value distribution practices among national and foreign banks. A total of 28 banks listed on BOVESPA were analyzed, categorized into groups to facilitate a thorough examination.
 
 
+
+<br>
 
 ## Key Findings
 1. **Differences between National and Foreign Banks**:
@@ -70,9 +80,13 @@ The research employed the **Demonstration of Value Added (DVA)** and ANOVA analy
 
 
 
+<br>
+
 ## Conclusions
 This study highlights the unequal distribution of value, particularly between foreign and national banks. The **Demonstration of Value Added (DVA)** serves as a crucial tool for analyzing corporate accountability and the economic impact of banking institutions.
 
+
+<br>
 
 
 ## Usage Instructions
@@ -83,6 +97,7 @@ To use the supplementary materials:
 3. View the video presentation using a media player of your choice.
 
 
+<br>
 
 
 ## Future Work
@@ -92,7 +107,7 @@ Future analyses could include:
 - Comparing the findings with other financial sectors.
 - Utilizing machine learning techniques for more in-depth data analysis.
 
-- 
+
 
 ## Acknowledgments
 
@@ -100,6 +115,7 @@ Special thanks to **Professor Eric Bacconi Gonçalves** for his guidance and sup
 
 
 
+<br>
 
 ## Contact Information
 
@@ -108,6 +124,9 @@ For any questions, suggestions, or collaborations, feel free to reach out:
 Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
 
 Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
+
+
+<br>
  
 
 ## Presentation Video
@@ -115,6 +134,7 @@ Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 You can watch the presentation video also on You Tube: [Presentation Video Link](#)
 
 
+<br>
 
 
 ## Supplementary Materials
@@ -122,9 +142,10 @@ You can watch the presentation video also on You Tube: [Presentation Video Link]
 - [PowerPoint Presentation](#)
 - [PDF Report](#)
 
-- 
+
+<br>
+  
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
