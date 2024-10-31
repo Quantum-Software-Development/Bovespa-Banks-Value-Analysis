@@ -9,6 +9,10 @@
   # <p align="center"> 🏦 Bovespa Banks Value Analysis
   #### <p align="center"> [University of Data Science and Artificial Intelligence]() - PUC-SP - 2nd Semester/2024
 
+<br>  
+
+https://github.com/user-attachments/assets/5bab36c8-28f6-4262-bc39-55c317b492e0
+
 <br>
 
 
