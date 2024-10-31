@@ -103,10 +103,12 @@ Special thanks to **Professor Eric Bacconi Gonçalves** for his guidance and sup
 
 ## Contact Information
 
-For inquiries, please contact:
-- **Email**: fabiana.campanari@example.com
+For any questions, suggestions, or collaborations, feel free to reach out:
 
-- 
+Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
+
+Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
+ 
 
 ## Presentation Video
 
