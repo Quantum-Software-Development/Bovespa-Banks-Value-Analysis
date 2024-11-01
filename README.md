@@ -45,7 +45,7 @@ This repository analyzes the distribution of wealth among Brazilian banks, highl
   
 <br>
 
-## Presentation Overview
+## [Presentation Overview]()
 
 Created by **Fabiana Campanari**, this project includes a complete video presentation for a Statistics course. In this project, I assumed the roles of art direction, design, and sound remixing 🎶. The focus of the analysis is on the **Value Added and Its Distribution in Bovespa Banks**.
 
@@ -54,7 +54,7 @@ Statistics need not be tedious. I transformed data into a visual and auditory na
 
 <br>
 
-## Analysis of Value Added and Its Distribution in Bovespa Banks
+## [Analysis of Value Added and Its Distribution in Bovespa Banks]()
 
 This repository presents an in-depth examination of how Brazilian banks created and distributed value, focusing specifically on their wealth distribution practices. By employing the **Demonstration of Value Added (DVA)** and statistical methods such as ANOVA, we analyzed the differences in value creation and distribution among national and foreign banks listed on BOVESPA.
 
@@ -64,7 +64,7 @@ The project encompasses a presentation video and supplementary materials, includ
 
 <br>
 
-## Objective of the Study
+## [Objective of the Study]()
 
 The study investigates how Brazilian banks generated and distributed wealth, focusing on the division of value among employees, government, financiers, and shareholders.
 
@@ -75,7 +75,8 @@ The research employed the **Demonstration of Value Added (DVA)** and ANOVA analy
 
 <br>
 
-## Key Findings
+## [Key Findings]()
+
 1. **Differences between National and Foreign Banks**:
    - Foreign banks exhibit distinct differences from national banks concerning value added and compensation policies.
    
@@ -90,14 +91,15 @@ The research employed the **Demonstration of Value Added (DVA)** and ANOVA analy
 
 <br>
 
-## Conclusions
+## [Conclusions]()
+
 This study highlights the unequal distribution of value, particularly between foreign and national banks. The **Demonstration of Value Added (DVA)** serves as a crucial tool for analyzing corporate accountability and the economic impact of banking institutions.
 
 
 <br>
 
 
-## Usage Instructions
+## [Usage Instructions]()
 
 To use the supplementary materials:
 1. Clone the repository.
@@ -108,7 +110,7 @@ To use the supplementary materials:
 <br>
 
 
-## Future Work
+## [Future Work]()
 
 Future analyses could include:
 - Expanding the study to cover more recent years.
@@ -117,7 +119,7 @@ Future analyses could include:
 
 
 
-## Acknowledgments
+## [Acknowledgments]()
 
 Special thanks to **Professor Eric Bacconi Gonçalves** for his guidance and support throughout this project.
 
@@ -125,7 +127,7 @@ Special thanks to **Professor Eric Bacconi Gonçalves** for his guidance and sup
 
 <br>
 
-## Contact Information
+## [Contact Information]()
 
 For any questions, suggestions, or collaborations, feel free to reach out:
 
@@ -137,7 +139,7 @@ Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 <br>
  
 
-## Presentation Video
+## [Presentation Video]()
 
 You can watch the presentation video also on [You Tube](https://youtu.be/_ytC6S4oDbM)
 
@@ -145,7 +147,7 @@ You can watch the presentation video also on [You Tube](https://youtu.be/_ytC6S4
 <br>
 
 
-## Supplementary Materials
+## [Supplementary Materials]()
 
 - [PowerPoint Presentation](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis/blame/b6e8861aa08935ff40088c202279190a967ff235/Bovespa%20Presentation/English/Bovespa%20Presentation%20PP.pptx)
   
@@ -155,6 +157,6 @@ You can watch the presentation video also on [You Tube](https://youtu.be/_ytC6S4
 <br>
   
 
-## License
+## [License]()
 
 ###### <p align="center"> Copyright 2024 Quantum Software Development. Code released under the [MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
