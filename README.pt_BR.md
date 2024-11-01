@@ -38,7 +38,7 @@ Este repositório analisa a distribuição de riqueza entre os bancos brasileiro
   
 <br>
 
-## Visão Geral da Apresentação
+## [Visão Geral da Apresentação]()
 
 Criado por **Fabiana Campanari**, este projeto inclui uma apresentação em vídeo completa para um curso de Estatística. Neste projeto, assumi os papéis de direção de arte, design e remixagem de som 🎶. O foco da análise é sobre o **Valor Adicionado e Sua Distribuição nos Bancos da Bovespa**.
 
@@ -47,7 +47,7 @@ Estatísticas não precisam ser tediosas. Transformei dados em uma narrativa vis
 
 <br>
 
-## Análise do Valor Adicionado e Sua Distribuição nos Bancos da Bovespa
+## [Análise do Valor Adicionado e Sua Distribuição nos Bancos da Bovespa]()
 
 Este repositório apresenta uma análise aprofundada de como os bancos brasileiros criaram e distribuíram valor, focando especificamente em suas práticas de distribuição de riqueza. Ao empregar a **Demonstração do Valor Adicionado (DVA)** e métodos estatísticos como ANOVA, analisamos as diferenças na criação e distribuição de valor entre bancos nacionais e estrangeiros listados na BOVESPA.
 
@@ -57,7 +57,7 @@ O projeto abrange um vídeo de apresentação e materiais suplementares, incluin
 
 <br>
 
-## Objetivo do Estudo
+## [Objetivo do Estudo]()
 
 O estudo investiga como os bancos brasileiros geraram e distribuíram riqueza, focando na divisão de valor entre funcionários, governo, financiadores e acionistas.
 
@@ -68,7 +68,8 @@ A pesquisa empregou a **Demonstração do Valor Adicionado (DVA)** e análise AN
 
 <br>
 
-## Principais Conclusões
+## [Principais Conclusões]()
+
 1. **Diferenças entre Bancos Nacionais e Estrangeiros**:
    - Bancos estrangeiros exibem diferenças distintas em relação aos bancos nacionais no que diz respeito ao valor adicionado e políticas de compensação.
    
@@ -83,14 +84,15 @@ A pesquisa empregou a **Demonstração do Valor Adicionado (DVA)** e análise AN
 
 <br>
 
-## Conclusões
+## [Conclusões]()
+
 Este estudo destaca a distribuição desigual de valor, particularmente entre bancos estrangeiros e nacionais. A **Demonstração do Valor Adicionado (DVA)** serve como uma ferramenta crucial para analisar a responsabilidade corporativa e o impacto econômico das instituições bancárias.
 
 
 <br>
 
 
-## Instruções de Uso
+## [Instruções de Uso]()
 
 Para usar os materiais suplementares:
 1. Clone o repositório.
@@ -101,7 +103,7 @@ Para usar os materiais suplementares:
 <br>
 
 
-## Trabalho Futuro
+## [Trabalho Futuro]()
 
 Análises futuras poderiam incluir:
 - Expandir o estudo para cobrir anos mais recentes.
@@ -118,7 +120,7 @@ Agradecimentos especiais ao **Professor Eric Bacconi Gonçalves** por sua orient
 
 <br>
 
-## Informações de Contato
+## [Informações de Contato]()
 
 Para qualquer dúvida, sugestão ou colaboração, sinta-se à vontade para entrar em contato:
 
@@ -130,7 +132,7 @@ Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 <br>
  
 
-## Vídeo da Apresentação
+## [Vídeo da Apresentação]()
 
 Você pode assistir ao vídeo da apresentação também no [YouTube](https://youtu.be/_ytC6S4oDbM)
 
@@ -138,7 +140,7 @@ Você pode assistir ao vídeo da apresentação também no [YouTube](https://you
 <br>
 
 
-## Materiais Suplementares
+## [Materiais Suplementares]()
 
 - [Apresentação PowerPoint](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis/blob/cb18be4b82af69ffc41328cafd92ba7746a3eceb/Bovespa%20Presentation/Portugues/Ana%CC%81lise%20do%20Valor%20Adicionado%20e%20de%20Sua%20Distribuic%CC%A7a%CC%83o%20nos%20Bancos%20da%20BOVESPA%20(2007-2011).pdf)
   
@@ -148,6 +150,6 @@ Você pode assistir ao vídeo da apresentação também no [YouTube](https://you
 <br>
   
 
-## Licença
+## [Licença]()
 
 ###### <p align="center"> [Copyright 2024 Desenvolvimento de Software Quântico. Código liberado sob a [Licença MIT].(https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
