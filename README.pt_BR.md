@@ -132,7 +132,7 @@ Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 
 ## Vídeo da Apresentação
 
-Você pode assistir ao vídeo da apresentação também no [YouTube]()
+Você pode assistir ao vídeo da apresentação também no [YouTube](https://youtu.be/_ytC6S4oDbM)
 
 
 <br>
