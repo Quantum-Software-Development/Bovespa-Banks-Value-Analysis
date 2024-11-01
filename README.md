@@ -147,7 +147,7 @@ You can watch the presentation video also on [You Tube]()
 
 ## Supplementary Materials
 
-- [PowerPoint Presentation](#)
+- [PowerPoint Presentation](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis/blame/b6e8861aa08935ff40088c202279190a967ff235/Bovespa%20Presentation/English/Bovespa%20Presentation%20PP.pptx)
 - [PDF Report](#)
 
 
