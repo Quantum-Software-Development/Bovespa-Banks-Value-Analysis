@@ -139,7 +139,7 @@ Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 
 ## Presentation Video
 
-You can watch the presentation video also on [You Tube]()
+You can watch the presentation video also on [You Tube](https://youtu.be/_ytC6S4oDbM)
 
 
 <br>
