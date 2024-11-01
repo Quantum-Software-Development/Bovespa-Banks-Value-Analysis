@@ -140,7 +140,7 @@ Você pode assistir ao vídeo da apresentação também no [YouTube](https://you
 
 ## Materiais Suplementares
 
-- [Apresentação PowerPoint](#)
+- [Apresentação PowerPoint](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis/blob/cb18be4b82af69ffc41328cafd92ba7746a3eceb/Bovespa%20Presentation/Portugues/Ana%CC%81lise%20do%20Valor%20Adicionado%20e%20de%20Sua%20Distribuic%CC%A7a%CC%83o%20nos%20Bancos%20da%20BOVESPA%20(2007-2011).pdf)
 - [Relatório PDF](#)
 
 
