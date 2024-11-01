@@ -150,4 +150,4 @@ Você pode assistir ao vídeo da apresentação também no [YouTube](https://you
 
 ## Licença
 
-###### <p align="center"> [Copyright 2024 Desenvolvimento de Software Quântico. Código liberado sob a licença MIT.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
+###### <p align="center"> [Copyright 2024 Desenvolvimento de Software Quântico. Código liberado sob a [Licença MIT].(https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
