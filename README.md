@@ -117,13 +117,11 @@ Future analyses could include:
 - Comparing the findings with other financial sectors.
 - Utilizing machine learning techniques for more in-depth data analysis.
 
-
+<br>
 
 ## [Acknowledgments]()
 
 Special thanks to **Professor Eric Bacconi Gonçalves** for his guidance and support throughout this project.
-
-
 
 <br>
 
@@ -157,6 +155,6 @@ You can watch the presentation video also on [You Tube](https://youtu.be/_ytC6S4
 <br>
   
 
-## [License]()
+#
 
 ###### <p align="center"> Copyright 2024 Quantum Software Development. Code released under the [MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
