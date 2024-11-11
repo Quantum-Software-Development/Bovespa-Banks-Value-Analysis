@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/a5be1c12-73c1-4515-869b-9adf116f1d73
 
 <br>
 
-This repository analyzes the distribution of wealth among Brazilian banks, highlighting the disparities between national and foreign institutions. The presentation was developed by [Fabiana Campanari](https://github.com/FabianaCampanari) for the course of **Statistics and Probability** in the **Data Science and Artificial Intelligence** program at **PUC-SP**, under the supervision of Professor [Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
+This repository analyzes the distribution of wealth among Brazilian banks, highlighting the disparities between national and foreign institutions. The presentation was developed by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) for the course of **Statistics and Probability** in the **Data Science and Artificial Intelligence** program at **PUC-SP**, under the supervision of Professor [Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
 
 <br>
