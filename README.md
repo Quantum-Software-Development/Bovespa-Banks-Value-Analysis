@@ -68,7 +68,7 @@ The project encompasses a presentation video and supplementary materials, includ
 
 The study investigates how Brazilian banks generated and distributed wealth, focusing on the division of value among employees, government, financiers, and shareholders.
 
-## Methodology
+## [Methodology]()
 The research employed the **Demonstration of Value Added (DVA)** and ANOVA analysis to compare value distribution practices among national and foreign banks. A total of 28 banks listed on BOVESPA were analyzed, categorized into groups to facilitate a thorough examination.
 
 
