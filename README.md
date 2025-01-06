@@ -42,6 +42,7 @@ This repository analyzes the distribution of wealth among Brazilian banks, highl
 - [Key Findings](#key-findings)
 - [Conclusions](#conclusions)
 - [Usage Instructions](#usage-instructions)
+- [Supplementary Materials](#supplementary-materials)
 - [Future Work](#future-work)
 - [Acknowledgments](#acknowledgments)
 - [Contact Information](#contact-information)
