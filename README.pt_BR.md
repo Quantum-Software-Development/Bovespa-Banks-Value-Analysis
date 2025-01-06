@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/5bab36c8-28f6-4262-bc39-55c317b492e0
 
 <br>
 
-### <p align="center"> 📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
+### <p align="center"> 📺  Para melhor resolução, assista ao vídeo no [YouTube.](https://youtu.be/_ytC6S4oDbM)
 
 <br><br>
 
