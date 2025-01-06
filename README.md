@@ -113,6 +113,14 @@ To use the supplementary materials:
 
 <br>
 
+## [Supplementary Materials]()
+
+- [PowerPoint Presentation](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis/blame/b6e8861aa08935ff40088c202279190a967ff235/Bovespa%20Presentation/English/Bovespa%20Presentation%20PP.pptx)
+  
+- [PDF Report](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis/blob/b5c9d2cd30893b2630feca4917742c4499526b40/Bovespa%20Presentation/English/Bovespa%20Presentation.pdf)
+
+<br>
+
 
 ## [Future Work]()
 
@@ -122,6 +130,8 @@ Future analyses could include:
 - Utilizing machine learning techniques for more in-depth data analysis.
 
 <br>
+
+
 
 ## [Acknowledgments]()
 
@@ -137,26 +147,6 @@ Fabiana Campanari 🚀 [Contacts Hub](https://linktr.ee/fabianacampanari)
 
 Fabiana Campanari 🛰️ [email](mailto:fabicampanari@proton.me)
 
-
-<br>
- 
-
-## [Presentation Video]()
-
-You can watch the presentation video also on [You Tube](https://youtu.be/_ytC6S4oDbM)
-
-
-<br>
-
-
-## [Supplementary Materials]()
-
-- [PowerPoint Presentation](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis/blame/b6e8861aa08935ff40088c202279190a967ff235/Bovespa%20Presentation/English/Bovespa%20Presentation%20PP.pptx)
-  
-- [PDF Report](https://github.com/Quantum-Software-Development/Bovespa-Banks-Value-Analysis/blob/b5c9d2cd30893b2630feca4917742c4499526b40/Bovespa%20Presentation/English/Bovespa%20Presentation.pdf)
-
-
-<br>
   
 
 #
