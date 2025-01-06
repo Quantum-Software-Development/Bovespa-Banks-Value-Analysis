@@ -14,9 +14,16 @@ https://github.com/user-attachments/assets/5bab36c8-28f6-4262-bc39-55c317b492e0
 
 <br>
 
+<br>
+
+### <p align="center"> 📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
+
+<br><br>
+
+
 #### <p align="center"> [![Patrocinador Desenvolvimento de Software Quântico](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
-<br>
+<br><br>
 
 Este repositório analisa a distribuição de riqueza entre os bancos brasileiros, destacando as disparidades entre instituições nacionais e estrangeiras. A apresentação foi desenvolvida por [Fabiana Campanari](https://github.com/FabianaCampanari) para o curso de **Estatística e Probabilidade** no programa de **Ciência de Dados e Inteligência Artificial** da **PUC-SP**, sob a supervisão do Professor [Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/)
 
