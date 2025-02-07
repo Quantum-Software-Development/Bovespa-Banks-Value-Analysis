@@ -6,7 +6,7 @@
 
   <!--  START HEADER  -->   
 
-  # <p align="center"> 🏦 Bovespa Banks Value Analysis
+  # <p align="center"> 🏦 Bovespa Banks Value Analysis and Statiscal Measures
   #### <p align="center"> [University of Data Science and Artificial Intelligence]() - PUC-SP - 2nd Semester/2024
 
 
