@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/a5be1c12-73c1-4515-869b-9adf116f1d73
 
 - [Whenever possible](), projects and deliverables developed during the course will be made [publicly accessible]().
 
-- The course emphasizes [**practical, hands-on experience**]() with real datasets to emulate professional consulting scenarios in the field of Data Mining.
+- The course emphasizes [**practical, hands-on experience**]() with real datasets to emulate professional consulting scenarios in the field of Bovespa Banks Informations
 
 - All activities and materials will strictly adhere to the [**academic and ethical guidelines of PUC-SP**](). Any content not authorized for public disclosure will remain [**confidential**]() and stored in [private repositories]().
 
